@@ -1,6 +1,6 @@
-📊 Dockerized Multi-Agent Data Analyzer
+#### 📊 Dockerized Multi-Agent Data Analyzer
 
-📝 Overview
+## 📝 Overview
 
 This project demonstrates how multi-agent systems can be used to solve real-world data analysis problems.
 Built with Autogen, LangChain, and Docker, it provides a flexible and modular workflow where agents collaborate to:
@@ -11,7 +11,7 @@ Built with Autogen, LangChain, and Docker, it provides a flexible and modular wo
 
 Together, they form a practical business problem-solving system that can easily be extended with more agents.
 
-✨ Features
+## ✨ Features
 
 🔗 Agent Collaboration – Multiple specialized AI agents working together.
 📂 Multi-format Input – Supports Excel and PDF data files.
@@ -36,7 +36,7 @@ touch .env
 🔹 2. Add the following variables
 OPENAI_API_KEY → Required if you use OpenAI models.
 
-⚙️ Installation
+## ⚙️ Installation
 1️⃣ Clone the Repository
 
 ```bash
@@ -60,13 +60,13 @@ streamlit run streamlit_app.py
 
 ![Streamlit App UI](https://github.com/sushantsur23/Dockerized-Multi-Agent-Data-Analyzer/blob/d5d93e70dcfcff80956a2f4ac6804c721118b7e8/graphs/image01.png) 
 
-🚀 Future Enhancements
+### 🚀 Future Enhancements
 
 ✅ Add Financial Analyzer Agent (forecasting, portfolio analysis).
 ✅ Add Reporting Agent (PDF/PowerPoint exports).
 ✅ Add Question Answering Agent (natural language queries on analyzed data).
 
-📚 Resources
+## 📚 Resources
 https://github.com/microsoft/autogen
 https://microsoft.github.io/autogen-for-net/articles/Roundrobin-chat.html
 
