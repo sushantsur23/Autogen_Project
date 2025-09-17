@@ -48,6 +48,8 @@ cd Dockerized-Multi-Agent-Data-Analyzer
 ./init.sh
 pip install -e .
 
+Make sure to run the Docker tool in your local before you start the streamlit app file.
+
 3️⃣ Run with command
 ```bash
 streamlit run streamlit_app.py
