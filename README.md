@@ -1,4 +1,4 @@
-#### 📊 Dockerized Multi-Agent Data Analyzer
+## 📊 Dockerized Multi-Agent Data Analyzer
 
 ## 📝 Overview
 
